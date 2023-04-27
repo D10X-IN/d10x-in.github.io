@@ -1,3 +1,18 @@
 ## Knowedge Share of D10X
 
 - [GCP Bucket mounting](./gcp_bucket.md)
+- [Ansible Installation](./ansible_installation.md)
+- [Apache Superset](./apache_superset.md)
+- [Azure General Reference](./azure_general_reference.md)
+- [Django Migration Process](./django_migration_process.md)
+- [Frappe Installation](./frappe_installation.md)
+- [GCP sdk Setup](./gcp_cloud_sdk_setup.md)
+- [Postgres Command](./postgres_commands.md)
+- [SMB mount](./smb_mount.md)
+- [Spinx](./spinx.md)
+- [Steps to Configure GCP](./step_to_configure_gcp.md)
+- [Training Links](./training_links.md)
+- [VM SSH setup on Visual Studio](./vs_code_vm_setup.md)
+- [Website Creation](./website_creation.md)
+- [Wildcard Certificate Generation Using Let's Encrypt](./wildcard_certificate_using_let's_encrypt.md)
+- [X-Frame](./x-frame.md)
