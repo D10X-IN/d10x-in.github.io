@@ -8,7 +8,7 @@ sudo apt-get -y install postgresql-13
 Download link : [https://www.postgresql.org/download/](https://www.postgresql.org/download/)  
   
 **How to created database and user with all privileges**  
-  
+```
 CREATE DATABASE **DATABASE\_NAME**;  
   
 CREATE USER **USERNAME** WITH PASSWORD **'PASSWORD'**;  
@@ -18,6 +18,8 @@ ALTER ROLE **USERNAME** SET default\_transaction\_isolation TO 'read committed';
 ALTER ROLE **USERNAME** SET timezone TO 'UTC';  
   
 GRANT ALL PRIVILEGES ON DATABASE **DATABASE\_NAME** TO **USER\_NAME**;  
+```
+
   
 **Granting permission for public schema**  
   
