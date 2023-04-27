@@ -1,0 +1,3 @@
+Frappe Installation Documentation Link : [https://docs.google.com/document/d/16Svcd-MQska2V8MhJMhl1XHqeoim6YdQhSGXihQCQBM/edit?usp=sharing](https://docs.google.com/document/d/16Svcd-MQska2V8MhJMhl1XHqeoim6YdQhSGXihQCQBM/edit?usp=sharing)  
+  
+Frappe Project Setup Documentation Link : [https://docs.google.com/document/d/1P0MvNQJ4fDaUJH0fgZJH7HDhbJpjWKZehmEv3-en90s/edit?usp=sharing](https://docs.google.com/document/d/1P0MvNQJ4fDaUJH0fgZJH7HDhbJpjWKZehmEv3-en90s/edit?usp=sharing)
