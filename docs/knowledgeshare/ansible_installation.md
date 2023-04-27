@@ -1,6 +1,4 @@
-
 # Installation of [Ansible](https://www.ansible.com/)
-
 
 **upgrade Ansible and python versions:**  
   
